@@ -7,6 +7,14 @@ public class Main {
 }
 
 class A {
+
+	public void m2() {
+		// TODO: Implement this method
+	}
+
+	public void m1() {
+		// TODO: Implement this method
+	}
 	{
 		System.out.println("block A");
 	}
